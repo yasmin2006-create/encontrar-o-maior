@@ -1,3 +1,5 @@
+// YASMIN LOUISE FONTES GUIMARAES
+// 1261935138
 public class App {
     public static int encontrarMaior(int[] array) {
         int maior = array[0];
